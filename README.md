@@ -45,7 +45,8 @@ CREATE TABLE ut (
 ```
 
 ## Screenshots
-![Screenshot 2025-03-12 210614](https://github.com/user-attachments/assets/d453c9d0-2c26-492d-8c0c-5d8527012cb9)
+![Screenshot 2025-03-12 210614](https://github.com/user-attachments/assets/f777625d-6848-47a7-85f1-7809b4b7132b)
+
 
 
 ## Contributing
