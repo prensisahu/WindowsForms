@@ -4,9 +4,9 @@
 This is a Windows Forms application built using **Visual Studio 2022** that demonstrates **CRUD (Create, Read, Update, Delete)** operations. The application allows users to enter a **ID, Name, and Age** and perform database operations seamlessly.
 
 ## Features
-- Insert new user records
+- Insert new records
 - Update existing records
-- Delete user records
+- Delete records
 - Search by ID
 - User-friendly Windows Forms interface
 
@@ -29,7 +29,7 @@ This is a Windows Forms application built using **Visual Studio 2022** that demo
 
 ## Usage
 1. Launch the application.
-2. Enter **User ID, Name, and Age** in the input fields.
+2. Enter ** ID, Name, and Age** in the input fields.
 3. Click **Insert** to add a new record.
 4. Click **Update** to modify an existing record.
 5. Click **Delete** to remove a user.
@@ -38,9 +38,9 @@ This is a Windows Forms application built using **Visual Studio 2022** that demo
 ## Database Schema
 ```sql
 CREATE TABLE ut (
-    ID INT PRIMARY KEY,
-    Name VARCHAR(50),
-    Age INT
+    id INT PRIMARY KEY,
+    name VARCHAR(50),
+    age INT
 );
 ```
 
