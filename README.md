@@ -7,7 +7,7 @@ This is a Windows Forms application built using **Visual Studio 2022** that demo
 - Insert new user records
 - Update existing records
 - Delete user records
-- Search for users by ID
+- Search by ID
 - User-friendly Windows Forms interface
 
 ## Technologies Used
